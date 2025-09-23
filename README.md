@@ -24,7 +24,7 @@ Sempre em busca de aprender mais e criar projetos que transformem ideias em real
 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adilsontrassi@gmail.com)
 
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/[seuusuario](https://www.facebook.com/adilson.ribeirodealmeida.796?rdid=vgkTgZCuxgCL1CMl&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1ZNZjTLgm2%2F#))
 
 
 
@@ -35,17 +35,3 @@ Sempre em busca de aprender mais e criar projetos que transformem ideias em real
 
 
 
-<!--
-**adilsonribeiroalmeida/adilsonribeiroalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
