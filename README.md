@@ -27,11 +27,17 @@ Sempre em busca de aprender mais e criar projetos que transformem ideias em real
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/[seuusuario](https://www.facebook.com/adilson.ribeirodealmeida.796?rdid=vgkTgZCuxgCL1CMl&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1ZNZjTLgm2%2F#))
 
 
-
 ## Objetivos
 - Construir meu portfólio com projetos reais  
 - Me tornar um desenvolvedor Front-End profissional  
-- Evoluir todos os dias 🚀  
+- Evoluir todos os dias 🚀
 
+
+
+![adilson stats](https://github-readme-stats.vercel.app/api?username=adilsonribeiroalmeida&hide=contribs,prs)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adilsonribeiroalmeida&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
